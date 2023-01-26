@@ -1,2 +1,7 @@
 # Music-Project
-Music exercises done in Processing
+
+## My project
+
+### h
+
+*S W A G* Music exercises done in Processing
